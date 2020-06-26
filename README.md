@@ -17,3 +17,7 @@ tric_reporters.pl
 
 6. Calculation of interaction frequencies for each reported interaction between fragments within a ≥3plet using custom script.
 tric_frequencies.pl
+
+
+
+THESE SCTIPTS HAVE BEEN UPDATED - SEE https://github.com/oudelaar/TriC
